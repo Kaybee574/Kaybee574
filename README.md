@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently doing my first year as a Computer Science major, I coded in python for the first semester of my course.<br>I'm currently working on a game in java ,in collaboration with my classmates.<br>I'm currently learning the basics of Java and object orientated programming.
+I'm currently doing my second year as a Computer Science major, I coded in python for the first semester of my course.<br>I worked on a game in java ,in collaboration with my classmates.<br>I'm currently learning advanced programming in Java.
 
 
 # 💻 Tech Stack:
